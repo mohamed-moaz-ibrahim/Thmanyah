@@ -1,12 +1,5 @@
 # Thmanyah.CSharp
 
-## Project Structure
-
-- **src/Thmanyah.Api/**: Main API project, contains controllers, startup, and API-specific services.
-- **src/Thmanyah.Cms/**: CMS module, manages programs and episodes, with its own domain, infrastructure, and services.
-- **src/Thmanyah.Discovery/**: Discovery module, handles read-optimized models and queries for fast content discovery.
-- **Thmanyah.Shared/**: Shared configurations and code used across modules.
-
 ## Problem Statement
 
 The project aims to build a modular, scalable backend for a content platform, supporting authentication, content management (CMS), and fast discovery/search. The challenge is to keep each module independent, maintainable, and easy to scale, while sharing common infrastructure and configuration.
@@ -21,6 +14,13 @@ The project aims to build a modular, scalable backend for a content platform, su
 - **Event-Driven Architecture**: The CMS publishes domain events, and the Discovery module subscribes to these events to update its read models, enabling eventual consistency and scalability.
 - **Caching Mechanism**: The Discovery module uses a cache-aside pattern with Redis or in-memory caching to accelerate read operations and reduce database load.
 
+## Project Structure
+
+- **src/Thmanyah.Api/**: Main API project, contains controllers, startup, and API-specific services.
+- **src/Thmanyah.Cms/**: CMS module, manages programs and episodes, with its own domain, infrastructure, and services.
+- **src/Thmanyah.Discovery/**: Discovery module, handles read-optimized models and queries for fast content discovery.
+- **Thmanyah.Shared/**: Shared configurations and code used across modules.
+
 ## Strengths & Scalability
 
 - **Clear Boundaries**: Modules can be developed, tested, and deployed independently.
@@ -31,26 +31,19 @@ The project aims to build a modular, scalable backend for a content platform, su
 
 ---
 
-This structure is ideal for teams looking to grow their platform, add new features, or scale out services as demand increases.
+The system is designed to handle high traffic (up to 10 million users per hour) through stateless services, caching, pagination, and separation of read/write concerns. Modules can later be extracted into microservices if needed.
 
 ## How to Run It
 
 1. **Clone the repository**
-2. **Set up PostgreSQL** and create the required databases. You can use the script in `docs/create_inter_database.sql` to create the `inter` database:
-
-	```sql
-	-- in psql or your SQL tool
-	\i docs/create_inter_database.sql
-	```
-
-3. **Configure connection strings** in `appsettings.json` as needed for your environment.
-4. **Build and run the solution**:
+2. **Configure connection strings** in `appsettings.json` as needed for your environment.
+3. **Build and run the solution**:
 	- Using Visual Studio: Press F5 or use the Run button.
 	- Using CLI:
 	  ```sh
 	  dotnet build
 	  dotnet run --project src/Thmanyah.Api/Thmanyah.Api.csproj
 	  ```
-5. **Access the API** at the URL shown in the console (default: `https://localhost:57310/swagger` for Swagger UI).
+4. **Access the API** at the URL shown in the console (default: `https://localhost:57310/swagger` for Swagger UI).
 
 ---
