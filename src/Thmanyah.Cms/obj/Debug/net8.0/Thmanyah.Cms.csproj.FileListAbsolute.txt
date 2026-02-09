@@ -1,0 +1,17 @@
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\bin\Debug\net8.0\Thmanyah.Cms.deps.json
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\bin\Debug\net8.0\Thmanyah.Cms.runtimeconfig.json
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\bin\Debug\net8.0\Thmanyah.Cms.dll
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\bin\Debug\net8.0\Thmanyah.Cms.pdb
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\bin\Debug\net8.0\Thmanyah.Shared.dll
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\bin\Debug\net8.0\Thmanyah.Shared.pdb
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.Cms.csproj.AssemblyReference.cache
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.Cms.GeneratedMSBuildEditorConfig.editorconfig
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.Cms.AssemblyInfoInputs.cache
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.Cms.AssemblyInfo.cs
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.Cms.csproj.CoreCompileInputs.cache
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.C0AC4AEF.Up2Date
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.Cms.dll
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\refint\Thmanyah.Cms.dll
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.Cms.pdb
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\Thmanyah.Cms.genruntimeconfig.cache
+D:\github-repos\thmanyah.CSharp\src\Thmanyah.Cms\obj\Debug\net8.0\ref\Thmanyah.Cms.dll

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\wwwroot\\episodes\\33a64f9a-7ac4-4bd2-a488-8a0f7587daa9\\KSA Visa - Google Chrome 2023-12-23 10-16-40-20260209162125.mp4",
+      "PackagePath": "staticwebassets\\episodes\\33a64f9a-7ac4-4bd2-a488-8a0f7587daa9\\KSA Visa - Google Chrome 2023-12-23 10-16-40-20260209162125.mp4"
+    },
+    {
+      "Id": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\wwwroot\\uploads\\episode-thumbnails\\table 2-61073fee80854de7af4693e26f637e3d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\episode-thumbnails\\table 2-61073fee80854de7af4693e26f637e3d.jpg"
+    },
+    {
+      "Id": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\wwwroot\\uploads\\program-thumbnails\\table-b1dbab719cd940e68135354aebffef08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\program-thumbnails\\table-b1dbab719cd940e68135354aebffef08.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Thmanyah.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Thmanyah.Api.props",
+      "PackagePath": "build\\Thmanyah.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Thmanyah.Api.props",
+      "PackagePath": "buildMultiTargeting\\Thmanyah.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Thmanyah.Api.props",
+      "PackagePath": "buildTransitive\\Thmanyah.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

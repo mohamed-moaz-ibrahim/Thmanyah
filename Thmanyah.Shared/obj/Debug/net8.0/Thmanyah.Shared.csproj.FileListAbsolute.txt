@@ -1,0 +1,11 @@
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\bin\Debug\net8.0\Thmanyah.Shared.deps.json
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\bin\Debug\net8.0\Thmanyah.Shared.dll
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\bin\Debug\net8.0\Thmanyah.Shared.pdb
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\obj\Debug\net8.0\Thmanyah.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\obj\Debug\net8.0\Thmanyah.Shared.AssemblyInfoInputs.cache
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\obj\Debug\net8.0\Thmanyah.Shared.AssemblyInfo.cs
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\obj\Debug\net8.0\Thmanyah.Shared.csproj.CoreCompileInputs.cache
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\obj\Debug\net8.0\Thmanyah.Shared.dll
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\obj\Debug\net8.0\refint\Thmanyah.Shared.dll
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\obj\Debug\net8.0\Thmanyah.Shared.pdb
+D:\github-repos\thmanyah.CSharp\Thmanyah.Shared\obj\Debug\net8.0\ref\Thmanyah.Shared.dll

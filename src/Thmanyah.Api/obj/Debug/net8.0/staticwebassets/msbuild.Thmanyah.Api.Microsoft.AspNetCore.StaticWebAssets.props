@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\episodes\33a64f9a-7ac4-4bd2-a488-8a0f7587daa9\KSA Visa - Google Chrome 2023-12-23 10-16-40-20260209162125.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>Thmanyah.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Thmanyah.Api</BasePath>
+      <RelativePath>episodes/33a64f9a-7ac4-4bd2-a488-8a0f7587daa9/KSA Visa - Google Chrome 2023-12-23 10-16-40-20260209162125.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\episodes\33a64f9a-7ac4-4bd2-a488-8a0f7587daa9\KSA Visa - Google Chrome 2023-12-23 10-16-40-20260209162125.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\episode-thumbnails\table 2-61073fee80854de7af4693e26f637e3d.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Thmanyah.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Thmanyah.Api</BasePath>
+      <RelativePath>uploads/episode-thumbnails/table 2-61073fee80854de7af4693e26f637e3d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\episode-thumbnails\table 2-61073fee80854de7af4693e26f637e3d.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\program-thumbnails\table-b1dbab719cd940e68135354aebffef08.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Thmanyah.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Thmanyah.Api</BasePath>
+      <RelativePath>uploads/program-thumbnails/table-b1dbab719cd940e68135354aebffef08.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\program-thumbnails\table-b1dbab719cd940e68135354aebffef08.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

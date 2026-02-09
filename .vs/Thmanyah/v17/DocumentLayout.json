@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github-repos\\thmanyah.CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|solutionrelative:src\\thmanyah.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|solutionrelative:src\\thmanyah.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444C2312-00E5-4486-B85E-52497D132A0F}|src\\Thmanyah.Discovery\\Thmanyah.Discovery.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.discovery\\services\\discoveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444C2312-00E5-4486-B85E-52497D132A0F}|src\\Thmanyah.Discovery\\Thmanyah.Discovery.csproj|solutionrelative:src\\thmanyah.discovery\\services\\discoveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444C2312-00E5-4486-B85E-52497D132A0F}|src\\Thmanyah.Discovery\\Thmanyah.Discovery.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.discovery\\services\\cacheddiscoveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444C2312-00E5-4486-B85E-52497D132A0F}|src\\Thmanyah.Discovery\\Thmanyah.Discovery.csproj|solutionrelative:src\\thmanyah.discovery\\services\\cacheddiscoveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.api\\controllers\\discoverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|solutionrelative:src\\thmanyah.api\\controllers\\discoverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444C2312-00E5-4486-B85E-52497D132A0F}|src\\Thmanyah.Discovery\\Thmanyah.Discovery.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.discovery\\infrastructure\\discoverymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444C2312-00E5-4486-B85E-52497D132A0F}|src\\Thmanyah.Discovery\\Thmanyah.Discovery.csproj|solutionrelative:src\\thmanyah.discovery\\infrastructure\\discoverymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444C2312-00E5-4486-B85E-52497D132A0F}|src\\Thmanyah.Discovery\\Thmanyah.Discovery.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.discovery\\infrastructure\\discoverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444C2312-00E5-4486-B85E-52497D132A0F}|src\\Thmanyah.Discovery\\Thmanyah.Discovery.csproj|solutionrelative:src\\thmanyah.discovery\\infrastructure\\discoverydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.api\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|solutionrelative:src\\thmanyah.api\\controllers\\cmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\services\\localstoragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\services\\localstoragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\infrastructure\\programrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\infrastructure\\programrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\infrastructure\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\infrastructure\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\infrastructure\\episoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\infrastructure\\episoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\infrastructure\\cmsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\infrastructure\\cmsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BD94F-3F01-4425-879C-4936D6A9B923}|Thmanyah.Shared\\Thmanyah.Shared.csproj|d:\\github-repos\\thmanyah.csharp\\thmanyah.shared\\services\\inmemoryeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BD94F-3F01-4425-879C-4936D6A9B923}|Thmanyah.Shared\\Thmanyah.Shared.csproj|solutionrelative:thmanyah.shared\\services\\inmemoryeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D87635-131D-4839-BA2B-5EAEC6651B09}|src\\Thmanyah.Api\\Thmanyah.Api.csproj|solutionrelative:src\\thmanyah.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\services\\fileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\services\\episodestoragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\services\\episodestoragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\services\\awsstoragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\services\\awsstoragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BD94F-3F01-4425-879C-4936D6A9B923}|Thmanyah.Shared\\Thmanyah.Shared.csproj|d:\\github-repos\\thmanyah.csharp\\thmanyah.shared\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BD94F-3F01-4425-879C-4936D6A9B923}|Thmanyah.Shared\\Thmanyah.Shared.csproj|solutionrelative:thmanyah.shared\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|d:\\github-repos\\thmanyah.csharp\\src\\thmanyah.cms\\services\\azurestoragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1612DA76-CDA9-4973-AD8D-F8B4BA7E49AD}|src\\Thmanyah.Cms\\Thmanyah.Cms.csproj|solutionrelative:src\\thmanyah.cms\\services\\azurestoragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BD94F-3F01-4425-879C-4936D6A9B923}|Thmanyah.Shared\\Thmanyah.Shared.csproj|d:\\github-repos\\thmanyah.csharp\\thmanyah.shared\\configurations\\redisconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BD94F-3F01-4425-879C-4936D6A9B923}|Thmanyah.Shared\\Thmanyah.Shared.csproj|solutionrelative:thmanyah.shared\\configurations\\redisconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927BD94F-3F01-4425-879C-4936D6A9B923}|Thmanyah.Shared\\Thmanyah.Shared.csproj|d:\\github-repos\\thmanyah.csharp\\thmanyah.shared\\configurations\\storageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927BD94F-3F01-4425-879C-4936D6A9B923}|Thmanyah.Shared\\Thmanyah.Shared.csproj|solutionrelative:thmanyah.shared\\configurations\\storageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscoveryModule.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Discovery\\Infrastructure\\DiscoveryModule.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Discovery\\Infrastructure\\DiscoveryModule.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Discovery\\Infrastructure\\DiscoveryModule.cs",
+              "RelativeToolTip": "src\\Thmanyah.Discovery\\Infrastructure\\DiscoveryModule.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:43:49.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Api\\appsettings.json",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Thmanyah.Api\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-09T08:57:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscoveryController.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\Controllers\\DiscoveryController.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Api\\Controllers\\DiscoveryController.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\Controllers\\DiscoveryController.cs",
+              "RelativeToolTip": "src\\Thmanyah.Api\\Controllers\\DiscoveryController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T16:06:16.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscoveryService.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Discovery\\Services\\DiscoveryService.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Discovery\\Services\\DiscoveryService.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Discovery\\Services\\DiscoveryService.cs",
+              "RelativeToolTip": "src\\Thmanyah.Discovery\\Services\\DiscoveryService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:17:22.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Api\\Program.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\Program.cs",
+              "RelativeToolTip": "src\\Thmanyah.Api\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAlwGQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:02:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CachedDiscoveryService.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Discovery\\Services\\CachedDiscoveryService.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Discovery\\Services\\CachedDiscoveryService.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Discovery\\Services\\CachedDiscoveryService.cs",
+              "RelativeToolTip": "src\\Thmanyah.Discovery\\Services\\CachedDiscoveryService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAawC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:00:59.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CmsController.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\Controllers\\CmsController.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Api\\Controllers\\CmsController.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\Controllers\\CmsController.cs",
+              "RelativeToolTip": "src\\Thmanyah.Api\\Controllers\\CmsController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAgwNcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:35:22.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiscoveryDbContext.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Discovery\\Infrastructure\\DiscoveryDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Discovery\\Infrastructure\\DiscoveryDbContext.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Discovery\\Infrastructure\\DiscoveryDbContext.cs",
+              "RelativeToolTip": "src\\Thmanyah.Discovery\\Infrastructure\\DiscoveryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:39:51.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocalStorageStrategy.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\LocalStorageStrategy.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Services\\LocalStorageStrategy.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\LocalStorageStrategy.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Services\\LocalStorageStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:24:48.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CmsDbContext.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Infrastructure\\CmsDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Infrastructure\\CmsDbContext.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Infrastructure\\CmsDbContext.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Infrastructure\\CmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:20:25.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EpisodeRepository.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Infrastructure\\EpisodeRepository.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Infrastructure\\EpisodeRepository.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Infrastructure\\EpisodeRepository.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Infrastructure\\EpisodeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:53:13.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProgramRepository.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Infrastructure\\ProgramRepository.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Infrastructure\\ProgramRepository.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Infrastructure\\ProgramRepository.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Infrastructure\\ProgramRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:53:24.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CmsModule.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Infrastructure\\CmsModule.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Infrastructure\\CmsModule.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Infrastructure\\CmsModule.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Infrastructure\\CmsModule.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:41:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InMemoryEventPublisher.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\Thmanyah.Shared\\Services\\InMemoryEventPublisher.cs",
+              "RelativeDocumentMoniker": "Thmanyah.Shared\\Services\\InMemoryEventPublisher.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\Thmanyah.Shared\\Services\\InMemoryEventPublisher.cs",
+              "RelativeToolTip": "Thmanyah.Shared\\Services\\InMemoryEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T19:47:31.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "src\\Thmanyah.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:07:30.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileUploadService.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\FileUploadService.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Services\\FileUploadService.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\FileUploadService.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Services\\FileUploadService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAlwDoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:51:47.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EpisodeStorageFactory.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\EpisodeStorageFactory.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Services\\EpisodeStorageFactory.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\EpisodeStorageFactory.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Services\\EpisodeStorageFactory.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIAwwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:40:05.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AWSStorageStrategy.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\AWSStorageStrategy.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Services\\AWSStorageStrategy.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\AWSStorageStrategy.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Services\\AWSStorageStrategy.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:10:48.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\Thmanyah.Shared\\Configurations\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "Thmanyah.Shared\\Configurations\\JWTSettings.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\Thmanyah.Shared\\Configurations\\JWTSettings.cs",
+              "RelativeToolTip": "Thmanyah.Shared\\Configurations\\JWTSettings.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:55:54.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AzureStorageStrategy.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\AzureStorageStrategy.cs",
+              "RelativeDocumentMoniker": "src\\Thmanyah.Cms\\Services\\AzureStorageStrategy.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\src\\Thmanyah.Cms\\Services\\AzureStorageStrategy.cs",
+              "RelativeToolTip": "src\\Thmanyah.Cms\\Services\\AzureStorageStrategy.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:11:33.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StorageConfiguration.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\Thmanyah.Shared\\Configurations\\StorageConfiguration.cs",
+              "RelativeDocumentMoniker": "Thmanyah.Shared\\Configurations\\StorageConfiguration.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\Thmanyah.Shared\\Configurations\\StorageConfiguration.cs",
+              "RelativeToolTip": "Thmanyah.Shared\\Configurations\\StorageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:55:58.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RedisConfiguration.cs",
+              "DocumentMoniker": "D:\\github-repos\\thmanyah.CSharp\\Thmanyah.Shared\\Configurations\\RedisConfiguration.cs",
+              "RelativeDocumentMoniker": "Thmanyah.Shared\\Configurations\\RedisConfiguration.cs",
+              "ToolTip": "D:\\github-repos\\thmanyah.CSharp\\Thmanyah.Shared\\Configurations\\RedisConfiguration.cs",
+              "RelativeToolTip": "Thmanyah.Shared\\Configurations\\RedisConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:55:41.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
